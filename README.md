@@ -7,7 +7,8 @@ Credit to https://github.com/tensorlayer/srgan
 For my own Study ONLY.
 
 
-**INFORMATION**
+
+## INFORMATION
 
 TensorFlow Implementation of "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"
 
